@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evelauyt. I'm a graduate student in the Business Analytics program at the University of Utah.
 - 👀 I’m interested in data science and data analytics.
-- 🌱 I’m currently learning data science with Python and R, data querying and visualization with Tableau and SQL.
+- 🌱 I’m currently learning data science with Python and R, data querying and visualization with SQL and Tableau.
 - 💞️ I’m looking to collaborate on kaggle projects!
 - 📫 How to reach me: evelauyt@gmail.com
 
